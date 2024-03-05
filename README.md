@@ -4,4 +4,4 @@
 * Потребуется Pyhon3 и выше.
 * Библиотека `telethon` [Сайт](https://docs.telethon.dev/en/stable/#)
 * Получить Токен у `@BotFather` [BotFather](https://t.me/BotFather)
-* Получить API ID.
+* Получить API ID. [my.telegram.org/apps](https://my.telegram.org/apps)
