@@ -5,3 +5,5 @@
 * Библиотека `telethon` [Сайт](https://docs.telethon.dev/en/stable/#)
 * Получить Токен у `@BotFather` [BotFather](https://t.me/BotFather)
 * Получить API ID. [my.telegram.org/apps](https://my.telegram.org/apps)
+* Отредактировать под себя [фаил скрипт](/import.py)
+* Запустить его исполнение.
